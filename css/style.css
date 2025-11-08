@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #ffffff;
     color: #333333;
@@ -83,3 +84,22 @@ footer {
     font-style: italic;
     color: #666666;
 }
+=======
+body{
+    background-color: #eaf6f6;
+}
+
+h1,h3{
+    color: #66BFBF;
+}
+
+hr{
+    border-style: none;
+     border-style:dotted none none;
+     border-color: gray;
+     border-width: 5px;
+     height: 0px;
+     width: 5%;
+     
+ };
+>>>>>>> 25db62447b85d41b78e46fa7c8f97d999c0dfc8d
